@@ -1,5 +1,7 @@
 # Proyecto: Estadística Descriptiva - Primer Bimestre 2024-B
 
+[Webpage](https://afkerian.github.io/Beijin-g11/)
+
 ## Descripción
 Este proyecto se enfoca en la aplicación de conceptos de Probabilidad y Estadística Básica a través de varias actividades prácticas. Se explorarán aspectos como la recopilación de datos, análisis descriptivo, visualización y presentación de resultados mediante infografías y presentaciones. 
 
@@ -23,10 +25,6 @@ El objetivo de este proyecto es que los estudiantes desarrollen habilidades de a
 **Fecha de Entrega Final:** 24-11-2024
 
 **Grupo:** BEIJIN-G11
-
----
-
-# Actividad 2
 
 ---
 
