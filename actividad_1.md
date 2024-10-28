@@ -36,7 +36,7 @@ Un estudio estadístico incluye varias fases fundamentales, cada una con un prop
 6. **Presentar los Resultados**: Finalmente, los hallazgos se presentan de manera visual y escrita, utilizando gráficos, tablas y textos que describan claramente las tendencias y patrones observados.
    
    > ### Imagen 6: Presentación de Resultados
-   > ![Presentación de Resultados](https://geoinnova.org/wp-content/uploads/2021/08/Datos-climaticos-del-NOAA.jpg)
+   > ![Presentación de Resultados](https://greatplacetowork.es/wp-content/uploads/2021/04/Resultados-encuesta-clima-laboral.jpg)
 
 ## Conceptos Matemáticos Relacionados
 
