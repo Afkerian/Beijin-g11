@@ -31,12 +31,12 @@ Un estudio estadístico incluye varias fases fundamentales, cada una con un prop
 5. **Interpretar los Resultados**: A partir del análisis, se emiten conclusiones claras y fundamentadas que expliquen los patrones identificados en los datos climáticos de Beijing.
    
    > ### Imagen 5: Interpretación de Resultados
-   > ![Interpretación de Resultados](https://www.cursosgis.com/wp-content/uploads/1-58.jpg)
+   > ![Interpretación de Resultados](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgreatplacetowork.es%2Fresultados-encuesta-clima-laboral%2F&psig=AOvVaw0TOg_dF1TpmHkk8BJKiIg2&ust=1730165608263000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDt8qb3r4kDFQAAAAAdAAAAABAE)
 
 6. **Presentar los Resultados**: Finalmente, los hallazgos se presentan de manera visual y escrita, utilizando gráficos, tablas y textos que describan claramente las tendencias y patrones observados.
    
    > ### Imagen 6: Presentación de Resultados
-   > ![Presentación de Resultados](https://greatplacetowork.es/wp-content/uploads/2021/04/Resultados-encuesta-clima-laboral.jpg)
+   > ![Presentación de Resultados](https://blog.greatplacetowork.com.ar/hubfs/Devoluci%C3%B3n-datos-analisis.jpg)
 
 ## Conceptos Matemáticos Relacionados
 
