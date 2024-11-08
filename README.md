@@ -31,5 +31,5 @@ El objetivo de este proyecto es que los estudiantes desarrollen habilidades de a
 <div align="center">
     <a href="README.md">Inicio</a> | 
     <a href="#">Retroceder</a> | 
-    <a href="actividad_1.md">Siguiente</a>
+    <a href="actividad_1.html">Siguiente</a>
 </div>
