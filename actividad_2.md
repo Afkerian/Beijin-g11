@@ -30,7 +30,16 @@ Estas variables te permitirán hacer un análisis completo de las condiciones cl
 
 ## Clasificación y Estructuración de Datos
 
-
+| Días       | Temperatura | Punto de rocío | Humedad | Viento | Velocidad del viento | Ráfaga del viento | Presión  | Precipitación | Condición  |
+|------------|-------------|----------------|---------|--------|----------------------|-------------------|----------|---------------|------------|
+| 21/10/2024 | 55 °F      | 37 °F         | 50%     | SSE    | 4 mph               | 0 mph            | 30,05 en | 0,0 en       | Nublado    |
+| 22/10/2024 | 60 °F      | 32 °F         | 35%     | NNO    | 4 mph               | 0 mph            | 30,09 en | 0,0 en       | Despejado  |
+| 23/10/2024 | 66 °F      | 39 °F         | 38%     | SSW    | 7 mph               | 0 mph            | 29,92 en | 0,0 en       | Nublado    |
+| 24/10/2024 | 68 °F      | 42 °F         | 38%     | NE     | 2 mph               | 0 mph            | 30,01 en | 0,0 en       | Despejado  |
+| 25/10/2024 | 67 °F      | 51 °F         | 58%     | S      | 4 mph               | 0 mph            | 30,09 en | 0,0 en       | Justo      |
+| 26/10/2024 | 62 °F      | 52 °F         | 70%     | NE     | 4 mph               | 0 mph            | 30,02 en | 0,0 en       | Justo      |
+| 27/10/2024 | 64 °F      | 30 °F         | 28%     | NE     | 7 mph               | 0 mph            | 30,06 en | 0,0 en       | Despejado  |
+| 28/10/2024 | 66 °F      | 35 °F         | 31%     | SW     | 7 mph               | 0 mph            | 29,91 en | 0,0 en       | Despejado  |
 
 [Archivo Excel con datos de clima en Beijing](https://epnecuador-my.sharepoint.com/:x:/g/personal/pablo_pacheco_epn_edu_ec/Eau23rIe74lKjW1gAr-7g6cBCFXIT-ADuTRyI42StOhUYw?e=PYKTmd)
 
