@@ -1,5 +1,7 @@
 # Conceptos Matemáticos Relacionados
 
+**Fecha:** 30/10/2024
+
 ### Tabla de Frecuencias
 
 Una tabla de frecuencias presenta la distribución de datos en distintas categorías, mostrando cuántas veces se repiten en el conjunto.

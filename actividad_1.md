@@ -1,5 +1,7 @@
 # Análisis Estadístico - Proyecto Beijing Clima
 
+**Fecha:** 30/10/2024
+
 ## Descripción del Proyecto
 
 Este proyecto se enfoca en realizar un análisis estadístico de datos climáticos recopilados en Beijing. El objetivo es entender los datos a través de la identificación de patrones, tendencias y vínculos que puedan guiar en la toma de decisiones fundamentadas.

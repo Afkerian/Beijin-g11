@@ -1,5 +1,7 @@
 # Análisis Estadístico
 
+**Fecha:** 30/10/2024
+
 ## ¿Qué es y cómo se realiza un estudio estadístico?
 
 Un estudio estadístico incluye varias fases fundamentales, cada una con un propósito clave en la comprensión y análisis de los datos:

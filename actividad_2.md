@@ -1,5 +1,7 @@
 # Análisis en Beijing
 
+**Fecha:** 08/11/2024
+
 ## Objetivo de análisis
 
 El objetivo del análisis es estudiar las características climáticas de Beijing, identificar patrones de temperatura, precipitaciones y otros factores meteorológicos relevantes, y comprender su comportamiento estadístico. Esto permitirá predecir tendencias, identificar anomalías y obtener una visión más precisa sobre el comportamiento del clima en esta región. Adicionalmente, el análisis estadístico podría ayudar a observar efectos del cambio climático o variaciones estacionales en Beijing.
