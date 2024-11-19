@@ -1,5 +1,7 @@
 # Identificación de las variables de estudio
 
+**Fecha:** 08/11/2024
+
 Para un análisis estadístico completo del clima en Beijing, las siguientes variables podrían ser de interés:
 
 - **Temperatura:** para analizar los cambios y extremos térmicos.
