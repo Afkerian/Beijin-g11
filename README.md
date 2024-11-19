@@ -12,8 +12,8 @@ El objetivo de este proyecto es que los estudiantes desarrollen habilidades de a
 
 ## Menú de Navegación
 1. [Actividad 1: Definición del Objetivo y Conceptos Básicos](actividad_1.md)
-2. [Actividad 2: Identificación de Variables y Estructuración de Datos](actividad_2.md) *(pendiente)*
-3. [Actividad 3: Selección de Gráficas y Análisis Descriptivo](actividad_3.md) *(pendiente)*
+2. [Actividad 2: Identificación de Variables y Estructuración de Datos](actividad_2.md)
+3. [Actividad 3: Selección de Gráficas y Análisis Descriptivo](actividad_3.md)
 4. [Actividad 4: Elaboración de Productos Finales](actividad_4.md) *(pendiente)*
 
 ### Productos Finales
