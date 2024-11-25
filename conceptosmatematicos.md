@@ -60,3 +60,4 @@ Los gráficos estadísticos son herramientas visuales que ayudan a entender la d
 
 > ### Imagen 13: Asimetría y Curtosis
 > ![Asimetría y Curtosis](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFTjKvo782aD7ClHo8LENESUfuy8MKvj6dyQ&s)
+

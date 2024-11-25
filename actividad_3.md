@@ -2,6 +2,16 @@
 
 **Fecha:** 15/11/2024
 
+1. [Análisis e Interpretación de las Gráficas](analisisgraficas.md)
+2. [Análisis e Interpretación de Medidas Descriptivas](analisismedidasdescriptivas.md)
+
+## Bibliografía
+
+1. [**Estadística descriptiva - Redalyc**](https://www.redalyc.org/articulo.oa?id=486755026009) Colegio Mexicano de Inmunología Clínica
+y Alergia, A.C
+2. [**Estadística: Medición, Descripción e Inferencia**](https://pepsic.bvsalud.org/pdf/pp/v6e7n10/a23.pdf) Dr. Enerio Rodríguez Arias
+3. [**Interpretación de gráficas: Claves para entender datos - Matematix**](https://matematix.org/interpretacion-de-graficas/) Matematix.org
+
 ---
 
 <div align="center">

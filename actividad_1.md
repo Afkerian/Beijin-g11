@@ -9,6 +9,13 @@ Este proyecto se enfoca en realizar un análisis estadístico de datos climátic
 1. [Análisis Estadístico](analisisestadistico.md)
 2. [Conceptos Matemáticos](conceptosmatematicos.md)
 
+## Bibliografía
+
+1. [**Elementos básicos de estadística descriptiva para el análisis de datos**](https://www.funlam.edu.co/uploads/fondoeditorial/120_Ebook-elementos_basicos.pdf)  Gabriel Jaime Posada Hernández
+2. [**Análisis estadístico de datos multivariados**](https://repositorio.unal.edu.co/handle/unal/79916) Díaz Monroy, Luis Guillermo
+Morales Rivera, Mario Alfonso
+3. [**Conceptos básicos de estadística**](https://www.paginaspersonales.unam.mx/files/977/Conceptos_basicos_de_estadistica.pdf) Repositorio UNAM
+
 ## Integrantes
 
 - **Responsable:** - Pablo Andrés Pacheco Olivo
