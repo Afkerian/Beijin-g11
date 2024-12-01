@@ -18,7 +18,7 @@ El objetivo de este proyecto es que los estudiantes desarrollen habilidades de a
 
 ### Productos Finales
 - [Infografia](https://www.canva.com/design/DAGYBO04Wog/Xl2s_dOZ_gGqvZlcG7Qt5w/view?utm_content=DAGYBO04Wog&utm_campaign=designshare&utm_medium=link&utm_source=editor)
-- [Presentación](Analisis-Estadistico-del-Clima-en-Beijing.pdf)
+- [Presentación](https://www.canva.com/design/DAGYD8DZT6Y/lt3n56wI8AH5wp5rFbmh8Q/edit?utm_content=DAGYD8DZT6Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
